@@ -1,0 +1,12 @@
+[
+    {
+        "timestamp": "2026-10-28 06:18:33",
+        "query": "SELECT * FROM users",
+        "status": "ALLOWED"
+    },
+    {
+        "timestamp": "2026-10-28 06:18:35",
+        "query": "DELETE FROM users;",
+        "status": "BLOCKED"
+    }
+]
